@@ -1,6 +1,6 @@
-# Glassy To‑Do App
+# To‑Do App
 
-A modern, glass‑morphic React + Tailwind to‑do list with keyboard shortcuts and smooth Framer Motion animations.
+A modern, glass‑morphic React + Tailwind to‑do list with basic keyboard shortcuts and motion animations.
 
 ## Features
 
